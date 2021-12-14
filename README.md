@@ -29,6 +29,10 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <br><br>
 ## Languages and tools i use
 
+<a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="Visual Studio Code" width="100px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
+
+<br><br>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <img align="left" alt="CTF" width="30px" src="https://ctflearn.com/static/img/sticker.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
