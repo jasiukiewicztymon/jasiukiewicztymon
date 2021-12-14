@@ -29,7 +29,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <br><br>
 ## Languages and tools i use
 <br>
-*Here you can find some of my profils...* 
+<i>Here you can find some of my profils...</i>
 <br><br>
 
 <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="Visual Studio Code" width="90px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
