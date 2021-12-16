@@ -15,7 +15,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <br><br>
 ## There is some stats 
 
-*This 2022 year I want to be more active... than in 2021*
+*This year I want to be more active... than in 2021*
 
 ![Tymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&hide=contribs,prs&theme=onedark)
 
