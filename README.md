@@ -9,7 +9,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 - [ ] Finish c++ on HackerRank
 - [ ] Learn CTF 
 - [ ] Finish CSS Battle
-- [x] Finish TChibis project (coming soon...)
+- [ ] Finish TChibis project (coming soon...)
 - [ ] Create a personal Github website
 
 <br><br>
