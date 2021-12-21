@@ -36,6 +36,8 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="Visual Studio Code" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a><br>
 
 # 
+<i>Some disgn and work technologies I use...</i>
+<br><br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
@@ -43,6 +45,8 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"><br>
 
 # 
+<i>Some programming languages and technologies I ues...</i>
+<br><br>
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;">
