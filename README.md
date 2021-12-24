@@ -24,7 +24,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 *That's not the only technology I use...*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&theme=onedark&layout=compact)](https://github.com/jasiukiewicztymon/github-readme-stats)
 
 <br><br>
 ## Languages and tools i use
