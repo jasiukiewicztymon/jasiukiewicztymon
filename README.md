@@ -35,7 +35,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="HackerRank" width="90px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
 <a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a>
 <a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a>
-<a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="40px" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*XvhNyVt7B79rr81x.png" style="max-width: 100%;"></a><br>
+<a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="350px" src="https://stx1.spoj.com/gfx/2015e.png" style="max-width: 100%;"></a><br>
 
 # 
 <i>Some disgn and work technologies I use...</i>
@@ -44,7 +44,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
 <img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;">
-<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"><br>
+<img align="left" alt="Photoshop" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"><br>
 
 # 
 <i>Some programming languages and technologies I ues...</i>
