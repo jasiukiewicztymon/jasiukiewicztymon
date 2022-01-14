@@ -15,11 +15,13 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 ### My activities...
 
-![Titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true) <br><br>
+![Titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true) <br>
 
 ### Languages I use...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&layout=compact&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
+
+<br>
 
 ## Languages and tools i use
 <i>Here you can find some of my profils...</i>
