@@ -12,24 +12,6 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 - [ ] Finish TChibis project (coming soon...)
 - [ ] Create a personal Github website
 
-
-<br><br>
-## There is some stats 
-
-*This year I want to be more active... than in 2021*
-
-![Tymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&hide=contribs,prs&theme=onedark)
-
-<br><br>
-## Languages I use on my github
-
-*That's not the only technology I use...*
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&theme=onedark&layout=compact)](https://github.com/jasiukiewicztymon/github-readme-stats)
-
-
-
-
 <br><br>
 ## Languages and tools i use
 <br>
