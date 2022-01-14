@@ -12,7 +12,6 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 - [ ] Finish TChibis project (coming soon...)
 - [ ] Create a personal Github website
 
-<br><br>
 ## Languages and tools i use
 <br>
 <i>Here you can find some of my profils...</i>
