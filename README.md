@@ -11,9 +11,17 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 - [ ] Finish CSS Battle
 - [ ] Finish TChibis project (coming soon...)
 - [ ] Create a personal Github website
+<br>
+
+### My activities...
+
+![Titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true) <br><br>
+
+### Languages I use...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&layout=compact&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
 
 ## Languages and tools i use
-<br>
 <i>Here you can find some of my profils...</i>
 <br><br>
 
