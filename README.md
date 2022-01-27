@@ -56,7 +56,6 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <img align="left" alt="Bootstrap" width="32px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="max-width: 100%;">
 <img align="left" alt="SQL" width="32px" src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" style="max-width: 100%;">
 <img align="left" alt="MongoDB" width="32px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" style="max-width: 100%;">
-<img align="left" alt="Firebase" width="26px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" style="max-width: 100%;">
 <img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="JQuery" width="32px" src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png" style="max-width: 100%;">
 <img align="left" alt="VueJS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="max-width: 100%;">
