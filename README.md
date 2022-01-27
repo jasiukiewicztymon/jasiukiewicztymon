@@ -33,7 +33,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="350px" src="https://stx1.spoj.com/gfx/2015e.png" style="max-width: 100%;"></a><br>
 
 # 
-<i>Some disgn and work technologies I use...</i>
+<i>Some design and work technologies I use...</i>
 <br><br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
