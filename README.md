@@ -4,13 +4,14 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 <br>
 
-*My project in progress:* 
+*My project:* 
 
-- [ ] Finish c++ on HackerRank
-- [ ] Learn CTF 
-- [ ] Finish CSS Battle
-- [ ] Finish TChibis project (coming soon...)
-- [ ] Create a personal Github website
+| Name                | Description                                 | Link                                                        |
+|---------------------|---------------------------------------------|-------------------------------------------------------------|
+| Discord Finance Bot | Bot for finance discord server              | [Invite](https://top.gg/bot/929516301788012585)             |
+| Better CMD          | Better CMD for windows                      | [Repo](https://github.com/jasiukiewicztymon/Better-cmd)     |
+| Server manager      | Manager for server with build in installer  | [Repo](https://github.com/jasiukiewicztymon/Server-manager) |
+
 <br>
 
 ### My activities...
