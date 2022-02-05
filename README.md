@@ -6,12 +6,12 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 *My project:* 
 
-| Name                | Description                                 | Link                                                          |
-|---------------------|---------------------------------------------|---------------------------------------------------------------|
-| Discord Finance Bot | Bot for finance discord server              | [Invite](https://top.gg/bot/929516301788012585)               |
-| Better CMD          | Better CMD for windows                      | [Repo](https://github.com/jasiukiewicztymon/Better-cmd)       |
-| Server manager      | Manager for server with build in installer  | [Repo](https://github.com/jasiukiewicztymon/Server-manager)   |
-| C# Dynamic Array    | Dynamic Arrays for C#                       | [Repo](https://github.com/jasiukiewicztymon/Dynamic_Array.cs) |
+| Name                      | Description                                 | Link                                                          |
+|---------------------------|---------------------------------------------|---------------------------------------------------------------|
+| Discord Finance Bot       | Bot for finance discord server              | [Invite](https://top.gg/bot/929516301788012585)               |
+| Better CMD                | Better CMD for windows                      | [Repo](https://github.com/jasiukiewicztymon/Better-cmd)       |
+| Raspberry server manager  | Manager for server with build in installer  | [Repo](https://github.com/jasiukiewicztymon/Server-manager)   |
+| C# Dynamic Array          | Dynamic Arrays for C#                       | [Repo](https://github.com/jasiukiewicztymon/Dynamic_Array.cs) |
 
 <br>
 
