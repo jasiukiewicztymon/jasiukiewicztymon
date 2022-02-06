@@ -12,6 +12,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 | Better CMD                | Better CMD for windows                      | [Repo](https://github.com/jasiukiewicztymon/Better-cmd)       |
 | Raspberry server manager  | Manager for server with build in installer  | [Repo](https://github.com/jasiukiewicztymon/Server-manager)   |
 | C# Dynamic Array          | Dynamic Arrays for C#                       | [Repo](https://github.com/jasiukiewicztymon/Dynamic_Array.cs) |
+| Better cin                | Suggestion system for cpp cin               | [Repo](https://github.com/jasiukiewicztymon/Better-cin)       |
 
 <br>
 
