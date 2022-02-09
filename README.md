@@ -32,7 +32,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="HackerRank" width="90px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
 <a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a>
-<a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a>
+<a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a><br><br><br>
 <a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="350px" src="https://stx1.spoj.com/gfx/2015e.png" style="max-width: 100%;"></a><br>
 
 # 
@@ -52,12 +52,18 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width: 100%;">
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width: 100%;">
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;">
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;"><br><br>
+
+###
+
 <img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="max-width: 100%;">
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="Sass" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="max-width: 100%;">
 <img align="left" alt="Bootstrap" width="32px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="max-width: 100%;">
-<img align="left" alt="SQL" width="32px" src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" style="max-width: 100%;">
+<img align="left" alt="SQL" width="32px" src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" style="max-width: 100%;"><br><br>
+
+###
+
 <img align="left" alt="MongoDB" width="32px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" style="max-width: 100%;">
 <img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="JQuery" width="32px" src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png" style="max-width: 100%;">
