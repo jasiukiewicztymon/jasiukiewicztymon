@@ -1,4 +1,4 @@
-### [Go back](https://github.com/jasiukiewicztymon/jasiukiewicztymon)
+### [Go back](https://github.com/jasiukiewicztymon)
 
 ## My projects
 
