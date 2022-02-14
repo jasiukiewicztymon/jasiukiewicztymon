@@ -20,7 +20,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 ***
 
 ### Languages and tools i use
-<i>Here you can find some of my profils...</i>
+Here you can find some of my profils...
 <br><br>
 
 <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="HackerRank" width="90px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
@@ -28,8 +28,8 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a><br><br><br>
 <a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="350px" src="https://stx1.spoj.com/gfx/2015e.png" style="max-width: 100%;"></a><br>
 
-# 
-<i>Some design and work technologies I use...</i>
+
+<br>Some design and work technologies I use...
 <br><br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
@@ -37,8 +37,8 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 <img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;">
 <img align="left" alt="Photoshop" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"><br>
 
-# 
-<i>Some programming languages and technologies I ues...</i>
+
+<br>Some programming languages and technologies I ues...
 <br><br>
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
