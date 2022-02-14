@@ -4,17 +4,22 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 ### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
 
+***
+
 ### My activities...
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasiukiewicztymon&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 ![Titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true) <br>
+
+***
 
 ### Languages I use...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&layout=compact&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
 
-<br>
+***
 
-## Languages and tools i use
+### Languages and tools i use
 <i>Here you can find some of my profils...</i>
 <br><br>
 
