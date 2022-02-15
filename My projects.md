@@ -33,6 +33,8 @@ And there you can find my answers to different challenges
 | HackerRank (Algo)         | C++                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-solve-algorithms-cpp)         | ❌   |
 | HackerRank (Scala)        | Scala                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-functional-programming-scala) | ❌   |
 | HackerRank (Linux Shell)  | Shell                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-linux-shell)                  | ❌   |
+| HackerRank (SQL)          | SQL                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-sql)                          | ❌   |
+| HackerRank (C)            | C                                           | [Repo](https://github.com/jasiukiewicztymon/hackerrank-c)                            | ❌   |
 
 ## Other
 
