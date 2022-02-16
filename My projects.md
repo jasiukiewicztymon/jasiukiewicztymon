@@ -35,6 +35,7 @@ And there you can find my answers to different challenges
 | HackerRank (Linux Shell)  | Shell                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-linux-shell)                  | ❌   |
 | HackerRank (SQL)          | SQL                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-sql)                          | ❌   |
 | HackerRank (C)            | C                                           | [Repo](https://github.com/jasiukiewicztymon/hackerrank-c)                            | ❌   |
+| HackerRank (Python)       | Python                                      | [Repo](https://github.com/jasiukiewicztymon/hackerrank-python)                       | ❌   |
 
 ## Other
 
