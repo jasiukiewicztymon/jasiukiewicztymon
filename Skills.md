@@ -18,6 +18,7 @@ HTML       : ⭐️⭐️⭐️⭐️
 Javascript : ⭐️⭐️⭐️
 JQuery     : ⭐️⭐️⭐️⭐️
 MongoDB    : ⭐️
+NodeJS     : ⭐️⭐️
 PHP        : ⭐️⭐️
 Powershell : ⭐️
 Python     : ⭐️⭐️
