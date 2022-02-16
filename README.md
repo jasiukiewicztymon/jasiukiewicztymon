@@ -3,6 +3,7 @@
 Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 ### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
+### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/Skills.md)
 
 ***
 
