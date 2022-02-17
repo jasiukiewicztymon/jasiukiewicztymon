@@ -16,7 +16,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 ### Languages I use...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&layout=compact&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&langs_count=10&layout=compact&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
 
 ***
 
