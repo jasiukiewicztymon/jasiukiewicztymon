@@ -12,7 +12,7 @@ Bootstrap  : ⭐️⭐️⭐️
 C          : ⭐️⭐️ 
 C++        : ⭐️⭐️⭐️⭐️ 
 C#         : ⭐️⭐️
-Css        : ⭐️⭐️⭐️
+CSS        : ⭐️⭐️⭐️
 ElectronJS : ⭐️
 HTML       : ⭐️⭐️⭐️⭐️
 Javascript : ⭐️⭐️⭐️
