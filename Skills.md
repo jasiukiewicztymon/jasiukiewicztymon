@@ -7,27 +7,28 @@ Here I post my auto-evaluation about the knowledge of programming languages and 
 ### Programming languages and Framworks
 
 <pre>
-Batch      : ⭐️
-Bootstrap  : ⭐️⭐️⭐️
-C          : ⭐️⭐️ 
-C++        : ⭐️⭐️⭐️⭐️ 
-C#         : ⭐️⭐️
-CSS        : ⭐️⭐️⭐️
-ElectronJS : ⭐️
-HTML       : ⭐️⭐️⭐️⭐️
-Javascript : ⭐️⭐️⭐️
-JQuery     : ⭐️⭐️⭐️⭐️
-MongoDB    : ⭐️
-NodeJS     : ⭐️⭐️
-PHP        : ⭐️⭐️
-Powershell : ⭐️
-Python     : ⭐️⭐️
-Sass       : ⭐️⭐️⭐️
-Scala      : ⭐️
-Shell      : ⭐️
-SQL        : ⭐️⭐️
-TypeScript : ⭐️
-VueJS      : ⭐️
+Batch       : ⭐️
+Bootstrap   : ⭐️⭐️⭐️
+C           : ⭐️⭐️ 
+C++         : ⭐️⭐️⭐️⭐️ 
+C#          : ⭐️⭐️
+CSS         : ⭐️⭐️⭐️
+ElectronJS  : ⭐️
+HTML        : ⭐️⭐️⭐️⭐️
+Javascript  : ⭐️⭐️⭐️
+JQuery      : ⭐️⭐️⭐️⭐️
+MongoDB     : ⭐️
+NodeJS      : ⭐️⭐️
+PHP         : ⭐️⭐️
+Powershell  : ⭐️
+Python      : ⭐️⭐️
+Sass        : ⭐️⭐️⭐️
+Scala       : ⭐️
+Shell       : ⭐️
+SQL         : ⭐️⭐️
+TailWindCss : ⭐️
+TypeScript  : ⭐️
+VueJS       : ⭐️
 </pre>
 
 ### Tools
