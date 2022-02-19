@@ -68,3 +68,4 @@ Here you can find some of my profils...
 <img align="left" alt="JQuery" width="32px" src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png" style="max-width: 100%;">
 <img align="left" alt="VueJS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="max-width: 100%;">
 <img align="left" alt="NodeJs" width="32px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/thumb_formation-node-js.png" style="max-width: 100%;">
+<img align="left" alt="Tailwind Css" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="max-width: 100%;">
