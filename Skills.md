@@ -26,7 +26,7 @@ Sass        : ⭐️⭐️⭐️
 Scala       : ⭐️
 Shell       : ⭐️
 SQL         : ⭐️⭐️
-TailWindCss : ⭐️
+TailWindCss : ⭐️⭐️
 TypeScript  : ⭐️
 VueJS       : ⭐️
 </pre>
