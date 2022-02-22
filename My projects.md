@@ -45,3 +45,4 @@ Here you can find some projects for fun
 |---------------------------|---------------------------------------------|--------------------------------------------------------------------------------------|
 | Just coding               | Here I code for fun                         | [Repo](https://github.com/jasiukiewicztymon/Just-coding)                             |
 | Other C++                 | C++ for fun                                 | [Repo](https://github.com/jasiukiewicztymon/other-cpp)                               |
+| Useful API                | Useful APIs List                            | [Repo](https://github.com/jasiukiewicztymon/useful-API)                               |
