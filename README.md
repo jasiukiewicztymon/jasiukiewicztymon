@@ -26,16 +26,16 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 ### Languages and tools i use
 Here you can find some of my profils...
-<br><br>
+<br>
 
 <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="HackerRank" width="90px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
-<a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a>
-<a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a><br><br><br>
-<a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="350px" src="https://stx1.spoj.com/gfx/2015e.png" style="max-width: 100%;"></a><br>
+<a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a><br><br><br>
+<a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a>
+<a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="40px" src="./img/spoj_icon.png" style="max-width: 50%;"></a><br>
 
 
 <br>Some design and work technologies I use...
-<br><br>
+<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
@@ -44,7 +44,7 @@ Here you can find some of my profils...
 
 
 <br>Some programming languages and technologies I use...
-<br><br>
+<br>
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="max-width: 100%;">
@@ -67,5 +67,8 @@ Here you can find some of my profils...
 <img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="JQuery" width="32px" src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png" style="max-width: 100%;">
 <img align="left" alt="VueJS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="max-width: 100%;">
-<img align="left" alt="NodeJs" width="32px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/thumb_formation-node-js.png" style="max-width: 100%;">
+<img align="left" alt="NodeJs" width="32px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/thumb_formation-node-js.png" style="max-width: 100%;"><br><br>
+
+###
+
 <img align="left" alt="Tailwind Css" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="max-width: 100%;">
