@@ -40,6 +40,7 @@ VueJS       : ⭐️
 
 <pre>
 GitHub       : ⭐️⭐️⭐️
+Git          : ⭐️⭐️⭐️
 MarkDown     : ⭐️⭐️⭐️⭐️
 Premiere Pro : ⭐️⭐️
 Illustrator  : ⭐️⭐️
