@@ -17,6 +17,7 @@ Here I post links to all of my projects
 | Git backup                | Auto backups system for Git                 | [Repo](https://github.com/jasiukiewicztymon/Git-Backup)       | ⚠️   |
 | Better cmd language       | Interpreted language for Better CMD         | [Repo](https://github.com/jasiukiewicztymon/Better-cmd-lang)  | ⚠️   |
 | Discord Setup Bot         | Setup bot for discord server                | [Repo](https://github.com/jasiukiewicztymon/Setup-bot)        | ⚠️   |
+| Logical Data Modelisator  | Logical modelisator for SQL databases       | [Repo](https://github.com/jasiukiewicztymon/LDM)              | ⚠️   |
 
 ## My challenges answers 
 
