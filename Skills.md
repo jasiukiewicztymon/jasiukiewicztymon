@@ -12,11 +12,11 @@ Here I post my auto-evaluation about the knowledge of programming languages and 
 ### Programming languages and Framworks
 
 <pre>
-Batch       : ⭐️
+Batch       : ⭐️⭐️
 Bootstrap   : ⭐️⭐️⭐️
-C           : ⭐️⭐️ 
+C           : ⭐️⭐️⭐️
 C++         : ⭐️⭐️⭐️⭐️ 
-C#          : ⭐️⭐️
+C#          : ⭐️⭐️⭐️
 CSS         : ⭐️⭐️⭐️
 ElectronJS  : ⭐️
 HTML        : ⭐️⭐️⭐️⭐️
@@ -26,14 +26,14 @@ MongoDB     : ⭐️
 NodeJS      : ⭐️⭐️
 PHP         : ⭐️⭐️
 Powershell  : ⭐️
-Python      : ⭐️⭐️
+Python      : ⭐️⭐️⭐️
 Sass        : ⭐️⭐️⭐️
 Scala       : ⭐️
-Shell       : ⭐️
+Shell       : ⭐️⭐️
 SQL         : ⭐️⭐️
 TailWindCss : ⭐️⭐️
 TypeScript  : ⭐️
-VueJS       : ⭐️
+VueJS       : ⭐️⭐️
 </pre>
 
 ### Tools
