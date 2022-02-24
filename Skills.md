@@ -46,4 +46,5 @@ Premiere Pro : ⭐️⭐️
 Illustrator  : ⭐️⭐️
 Photoshop    : ⭐️⭐️
 API          : ⭐️⭐️
+MSOffice     : ⭐️⭐️⭐️⭐️
 </pre>
