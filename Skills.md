@@ -30,8 +30,8 @@ Python      : ⭐️⭐️⭐️
 Sass        : ⭐️⭐️⭐️
 Scala       : ⭐️
 Shell       : ⭐️⭐️
-SQL         : ⭐️⭐️
-TailWindCss : ⭐️⭐️
+SQL         : ⭐️⭐️⭐️
+TailWindCss : ⭐️⭐️⭐️
 TypeScript  : ⭐️
 VueJS       : ⭐️⭐️
 </pre>
