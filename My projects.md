@@ -18,6 +18,7 @@ Here I post links to all of my projects
 | Better cmd language       | Interpreted language for Better CMD         | [Repo](https://github.com/jasiukiewicztymon/Better-cmd-lang)  | ⚠️   |
 | Discord Setup Bot         | Setup bot for discord server                | [Repo](https://github.com/jasiukiewicztymon/Setup-bot)        | ⚠️   |
 | Logical Data Modelisator  | Logical modelisator for SQL databases       | [Repo](https://github.com/jasiukiewicztymon/LDM)              | ⚠️   |
+| WhatsApp Bot              | WhatsApp Bot made with puppeteer            | [Repo](https://github.com/jasiukiewicztymon/Whatsapp-bot-ANF) | ✅   |
 
 ## My challenges answers 
 
