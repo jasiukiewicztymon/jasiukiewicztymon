@@ -7,18 +7,19 @@ Here I post links to all of my projects
 ⚠️ - Work in progress<br>
 ✅ - Finished
 
-| Name                      | Description                                 | Link                                                          | State |
-|---------------------------|---------------------------------------------|---------------------------------------------------------------|-------|
-| Discord Finance Bot       | Bot for finance discord server              | [Invite](https://top.gg/bot/929516301788012585)               | ✅   |
-| Better CMD                | Better CMD for windows                      | [Repo](https://github.com/jasiukiewicztymon/Better-cmd)       | ⚠️   |
-| Raspberry server manager  | Manager for server with build in installer  | [Repo](https://github.com/jasiukiewicztymon/Server-manager)   | ✅   |
-| C# Dynamic Array          | Dynamic Arrays for C#                       | [Repo](https://github.com/jasiukiewicztymon/Dynamic_Array.cs) | ✅   |
-| Better cin                | Suggestion system for cpp cin               | [Repo](https://github.com/jasiukiewicztymon/Better-cin)       | ✅   |
-| Git backup                | Auto backups system for Git                 | [Repo](https://github.com/jasiukiewicztymon/Git-Backup)       | ✅   |
-| Better cmd language       | Interpreted language for Better CMD         | [Repo](https://github.com/jasiukiewicztymon/Better-cmd-lang)  | ⚠️   |
-| Discord Setup Bot         | Setup bot for discord server                | [Repo](https://github.com/jasiukiewicztymon/Setup-bot)        | ⚠️   |
-| Logical Data Modelisator  | Logical modelisator for SQL databases       | [Repo](https://github.com/jasiukiewicztymon/LDM)              | ⚠️   |
-| WhatsApp Bot              | WhatsApp Bot made with puppeteer            | [Repo](https://github.com/jasiukiewicztymon/Whatsapp-bot-ANF) | ✅   |
+| Name                      | Description                                 | Link                                                            | State |
+|---------------------------|---------------------------------------------|-----------------------------------------------------------------|-------|
+| Discord Finance Bot       | Bot for finance discord server              | [Invite](https://top.gg/bot/929516301788012585)                 | ✅   |
+| Better CMD                | Better CMD for windows                      | [Repo](https://github.com/jasiukiewicztymon/Better-cmd)         | ⚠️   |
+| Raspberry server manager  | Manager for server with build in installer  | [Repo](https://github.com/jasiukiewicztymon/Server-manager)     | ✅   |
+| C# Dynamic Array          | Dynamic Arrays for C#                       | [Repo](https://github.com/jasiukiewicztymon/Dynamic_Array.cs)   | ✅   |
+| Better cin                | Suggestion system for cpp cin               | [Repo](https://github.com/jasiukiewicztymon/Better-cin)         | ✅   |
+| Git backup                | Auto backups system for Git                 | [Repo](https://github.com/jasiukiewicztymon/Git-Backup)         | ✅   |
+| Better cmd language       | Interpreted language for Better CMD         | [Repo](https://github.com/jasiukiewicztymon/Better-cmd-lang)    | ⚠️   |
+| Discord Setup Bot         | Setup bot for discord server                | [Repo](https://github.com/jasiukiewicztymon/Setup-bot)          | ⚠️   |
+| Logical Data Modelisator  | Logical modelisator for SQL databases       | [Repo](https://github.com/jasiukiewicztymon/LDM)                | ⚠️   |
+| WhatsApp Bot              | WhatsApp Bot made with puppeteer            | [Repo](https://github.com/jasiukiewicztymon/Whatsapp-bot-ANF)   | ✅   |
+| FootBall Classement       | VueJs Football live classment website       | [Repo](https://github.com/jasiukiewicztymon/FootBallClassement) | ✅   |
 
 ## My challenges answers 
 
