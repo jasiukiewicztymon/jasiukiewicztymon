@@ -77,3 +77,5 @@ Here you can find some of my profils...
 
 <img align="left" alt="Tailwind Css" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="Scala" height="32px" src="https://miro.medium.com/max/1200/0*R72dyXDgeHJfB1yk.png" style="max-width: 100%;">
+<img align="left" alt="Firebase" height="32px" src="https://www.gstatic.com/devrel-devsite/prod/vea32910d5631902da7876bf3132bf2a23b4c6e7b82b4223c953da55851058027/firebase/images/touchicon-180.png" style="max-width: 100%;">
+<img align="left" alt="PHP" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" style="max-width: 100%;">
