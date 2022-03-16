@@ -48,4 +48,6 @@ Here you can find some projects for fun
 |---------------------------|---------------------------------------------|--------------------------------------------------------------------------------------|
 | Just coding               | Here I code for fun                         | [Repo](https://github.com/jasiukiewicztymon/Just-coding)                             |
 | Other C++                 | C++ for fun                                 | [Repo](https://github.com/jasiukiewicztymon/other-cpp)                               |
-| Useful API                | Useful APIs List                            | [Repo](https://github.com/jasiukiewicztymon/useful-API)                               |
+| Useful API                | Useful APIs List                            | [Repo](https://github.com/jasiukiewicztymon/useful-API)                              |
+| Code Pen                  | My Code Pens list                           | [Repo](https://github.com/jasiukiewicztymon/CodePen)                                 |
+| FireBase Learning         | My FireBase notes                           | [Repo](https://github.com/jasiukiewicztymon/FireBase-Learining)                      |
