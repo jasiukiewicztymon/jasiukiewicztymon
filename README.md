@@ -5,6 +5,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 - Coding for 2 years 🕐
 - Like doing web and algo stuff 🔧
 - Like learning new things 👨🏽‍🎓
+- 1000 days code challenge ***5% ✅***
 
 ![Gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
