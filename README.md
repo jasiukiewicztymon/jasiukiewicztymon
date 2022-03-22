@@ -1,15 +1,17 @@
 # Welcome on my github! 👋
 
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+
+***
+
 Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 - Coding for 2 years 🕐
 - Like doing web and algo stuff 🔧
 - Like learning new things 👨🏽‍🎓
 - 1000 days code challenge ***5% ✅***
-
-![Gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
-
-***
+- Looking for challenges 💪🏼
 
 ### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
 ### [Skills](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/Skills.md)
