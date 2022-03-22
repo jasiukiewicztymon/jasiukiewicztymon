@@ -23,19 +23,14 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 ### My activities...
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasiukiewicztymon&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![Titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true) <br>
-
-***
+![Titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true&hide_border=true) <br>
 
 ### Languages I use...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&langs_count=10&layout=compact&theme=onedark)](https://github.com/jasiukiewicztymon/github-readme-stats)
-
-***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasiukiewicztymon&langs_count=10&layout=compact&theme=onedark&hide_border=true)](https://github.com/jasiukiewicztymon/github-readme-stats)
 
 ### Languages and tools i use
-Here you can find some of my profils...
-<br>
+#### Here you can find some of my profils
 
 <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="HackerRank" width="90px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" style="max-width: 100%;"></a>
 <a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a><br><br><br>
@@ -43,8 +38,9 @@ Here you can find some of my profils...
 <a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="40px" src="./img/spoj_icon.png" style="max-width: 50%;"></a><br>
 
 
-<br>Some design and work technologies I use...
 <br>
+
+#### Some design and work technologies I use
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="max-width: 100%;">
@@ -52,8 +48,9 @@ Here you can find some of my profils...
 <img align="left" alt="Photoshop" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"><br>
 
 
-<br>Some programming languages and technologies I use...
 <br>
+
+#### Some programming languages and technologies I use
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width: 100%;">
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="max-width: 100%;">
