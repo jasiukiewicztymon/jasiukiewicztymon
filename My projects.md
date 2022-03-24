@@ -50,4 +50,4 @@ Here you can find some projects for fun
 | Other C++                 | C++ for fun                                 | [Repo](https://github.com/jasiukiewicztymon/other-cpp)                               |
 | Useful API                | Useful APIs List                            | [Repo](https://github.com/jasiukiewicztymon/useful-API)                              |
 | Code Pen                  | My Code Pens list                           | [Repo](https://github.com/jasiukiewicztymon/CodePen)                                 |
-| FireBase Learning         | My FireBase notes                           | [Repo](https://github.com/jasiukiewicztymon/FireBase-Learining)                      |
+| FireBase Learning         | My FireBase notes                           | [Repo](https://github.com/jasiukiewicztymon/FireBase-Learning)                       |
