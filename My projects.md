@@ -20,6 +20,7 @@ Here I post links to all of my projects
 | Logical Data Modelisator  | Logical modelisator for SQL databases       | [Repo](https://github.com/jasiukiewicztymon/LDM)                | ⚠️   |
 | WhatsApp Bot              | WhatsApp Bot made with puppeteer            | [Repo](https://github.com/jasiukiewicztymon/Whatsapp-bot-ANF)   | ✅   |
 | FootBall Classement       | VueJs Football live classment website       | [Repo](https://github.com/jasiukiewicztymon/FootBallClassement) | ✅   |
+| PixelBot                  | Discord Hypixel Bot                         | [Repo](https://github.com/jasiukiewicztymon/PixelBot)           | ⚠️   |
 
 ## My challenges answers 
 
