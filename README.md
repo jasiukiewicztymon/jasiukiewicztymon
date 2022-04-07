@@ -23,7 +23,6 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
   <details>
   <summary><h3>My activities</h3></summary>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jasiukiewicztymon&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&theme=onedark&show_icons=true&hide_border=true"><br>
 </details>
 <details>
   <summary><h3>Languages I use...</h3></summary>
@@ -37,9 +36,9 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
   <a href="https://www.hackerrank.com/titicode2115"><img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" style="max-width: 100%;"></a>
   <a href="https://ctflearn.com/user/Titi2115"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a><br><br><br>
   <a href="https://cssbattle.dev/player/xbLNhR3SkuPe01F2pf3nzODj2Hu1"><img align="left" alt="CSS Battle" width="40px" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" style="max-width: 100%;"></a>
-  <a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="40px" src="./img/spoj_icon.png" style="max-width: 50%;"></a><br>
+  <a href="https://www.spoj.com/users/titi_2115/"><img align="left" alt="SPOJ" width="40px" src="./img/spoj_icon.png" style="max-width: 50%;"></a><br><br>
 </details>
-
+    
 <details>
   <summary><h3>Some design and work technologies I use</h3></summary>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
