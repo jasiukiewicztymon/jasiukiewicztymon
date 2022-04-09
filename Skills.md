@@ -12,7 +12,8 @@ Here I post my auto-evaluation about the knowledge of programming languages and 
 ### Programming languages and Framworks
 
 <pre>
-Axios       : ⭐️
+Assembly    : ⭐️
+Axios       : ⭐
 Batch       : ⭐️⭐️
 Bootstrap   : ⭐️⭐️⭐️
 C           : ⭐️⭐️⭐️
@@ -21,6 +22,7 @@ C#          : ⭐️⭐️⭐️
 CSS         : ⭐️⭐️⭐️
 ElectronJS  : ⭐️⭐️
 HTML        : ⭐️⭐️⭐️⭐️
+Java        : ⭐️⭐️
 Javascript  : ⭐️⭐️⭐️
 JQuery      : ⭐️⭐️⭐️⭐️
 MongoDB     : ⭐️
