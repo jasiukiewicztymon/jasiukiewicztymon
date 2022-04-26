@@ -8,18 +8,18 @@
 Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 - Coding for 2 years 🕐
-- Like doing web and algo stuff 🔧
 - Like learning new things 👨🏽‍🎓
 - 1000 days code challenge ***9% ✅***
 - Looking for challenges 💪🏼
 
-### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
-### [Skills](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/Skills.md)
+#### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
+#### [Skills](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/Skills.md)
+#### [My gists](https://gist.github.com/jasiukiewicztymon)
 
 ***
 
 <details>
-  <summary><h1>More<h1></summary>
+  <summary><h2>More<h2></summary>
   <details>
   <summary><h3>My activities</h3></summary>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jasiukiewicztymon&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><br>
