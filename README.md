@@ -22,7 +22,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
   <summary><h2>More<h2></summary>
   <details>
   <summary><h3>My activities</h3></summary>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jasiukiewicztymon&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&show_icons=true&theme=onedark&hide_border=true"><br>
 </details>
 <details>
   <summary><h3>Languages I use...</h3></summary>
