@@ -9,7 +9,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 - Coding for 2 years 🕐
 - Like learning new things 👨🏽‍🎓
-- 1000 days code challenge ***10% ✅***
+- 1000 days code challenge ***11% ✅***
 - Looking for challenges 💪🏼
 
 #### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
@@ -23,6 +23,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
   <details>
   <summary><h3>My activities</h3></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=jasiukiewicztymon&show_icons=true&theme=onedark&hide_border=true"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasiukiewicztymon&theme=onedark&hide_border=true"><br>
 </details>
 <details>
   <summary><h3>Languages I use...</h3></summary>
