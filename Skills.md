@@ -27,7 +27,6 @@ Javascript  : ⭐️⭐️⭐️
 JQuery      : ⭐️⭐️⭐️⭐️
 MongoDB     : ⭐️
 NodeJS      : ⭐️⭐️⭐️
-NuxtJs      : ⭐️⭐️⭐️
 PHP         : ⭐️⭐️
 Powershell  : ⭐️⭐️
 Python      : ⭐️⭐️⭐️
