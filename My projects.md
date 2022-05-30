@@ -31,15 +31,15 @@ And there you can find my answers to different challenges
 
 | Name                      | Language                                    | Link                                                                                 | State |
 |---------------------------|---------------------------------------------|--------------------------------------------------------------------------------------|-------|
-| SPOJ                      | C++                                         | [Repo](https://github.com/jasiukiewicztymon/SPOJ)                                    | ❌   |
-| HackerRank (C++)          | C++                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-cpp)                          | ❌   |
-| Css Battle                | CSS HTML                                    | [Repo](https://github.com/jasiukiewicztymon/css-battle)                              | ❌   |
-| HackerRank (Algo)         | C++                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-solve-algorithms-cpp)         | ❌   |
-| HackerRank (Scala)        | Scala                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-functional-programming-scala) | ❌   |
-| HackerRank (Linux Shell)  | Shell                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-linux-shell)                  | ❌   |
-| HackerRank (SQL)          | SQL                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-sql)                          | ❌   |
-| HackerRank (C)            | C                                           | [Repo](https://github.com/jasiukiewicztymon/hackerrank-c)                            | ❌   |
-| HackerRank (Python)       | Python                                      | [Repo](https://github.com/jasiukiewicztymon/hackerrank-python)                       | ❌   |
+| SPOJ                      | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                         | [Repo](https://github.com/jasiukiewicztymon/SPOJ)                                    | ❌   |
+| HackerRank (C++)          | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-cpp)                          | ❌   |
+| Css Battle                | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                                    | [Repo](https://github.com/jasiukiewicztymon/css-battle)                              | ❌   |
+| HackerRank (Algo)         | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-solve-algorithms-cpp)         | ❌   |
+| HackerRank (Scala)        | ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-functional-programming-scala) | ❌   |
+| HackerRank (Linux Shell)  | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)                                       | [Repo](https://github.com/jasiukiewicztymon/hackerrank-linux-shell)                  | ❌   |
+| HackerRank (SQL)          | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)                                         | [Repo](https://github.com/jasiukiewicztymon/hackerrank-sql)                          | ❌   |
+| HackerRank (C)            | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                           | [Repo](https://github.com/jasiukiewicztymon/hackerrank-c)                            | ❌   |
+| HackerRank (Python)       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                      | [Repo](https://github.com/jasiukiewicztymon/hackerrank-python)                       | ❌   |
 
 ## Other
 
