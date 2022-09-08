@@ -47,3 +47,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
   
 </details>
 </details>
+
+## Sponsors ❤
+
+Thanks to all the sponsors, become one of them if you like my work.
