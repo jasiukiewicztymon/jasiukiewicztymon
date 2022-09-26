@@ -4,7 +4,7 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 
 - Coding for 2 years 🕐
 - Like learning new things 👨🏽‍🎓
-- 1000 days code challenge ***23% ✅***
+- 1000 days code challenge ***24% ✅***
 - Looking for challenges 💪🏼
 
 #### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
