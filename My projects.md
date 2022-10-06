@@ -19,7 +19,7 @@ Here I post links to all of my projects
 | Discord Setup Bot         | Setup bot for discord server                | [Repo](https://github.com/jasiukiewicztymon/Setup-bot)          | ⚠️   |
 | Logical Data Modelisator  | Logical modelisator for SQL databases       | [Repo](https://github.com/jasiukiewicztymon/LDM)                | ⚠️   |
 | WhatsApp Bot              | WhatsApp Bot made with puppeteer            | [Repo](https://github.com/jasiukiewicztymon/Whatsapp-bot-ANF)   | ✅   |
-| Sport Classement          | VueJs sports live classment website         | [Repo](https://github.com/jasiukiewicztymon/SportClassement)   | ✅   |
+| Sport Classement          | VueJs sports live classment website         | [Repo](https://github.com/jasiukiewicztymon/SportClassement)    | ⚠️   |
 | PixelBot                  | Discord Hypixel Bot                         | [Repo](https://github.com/jasiukiewicztymon/PixelBot)           | ✅   |
 
 ## My challenges answers 
