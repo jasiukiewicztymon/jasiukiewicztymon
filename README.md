@@ -8,7 +8,6 @@ Hi my name is *Tymon* and I'm an informatic student, who like challenges...
 - Looking for challenges 💪🏼
 
 #### [My projects](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/My%20projects.md)
-#### [Skills](https://github.com/jasiukiewicztymon/jasiukiewicztymon/blob/main/Skills.md)
 #### [My gists](https://gist.github.com/jasiukiewicztymon)
 
 <details>
